@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "a basic entry level code for backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "start",
+    "day1"
+  ],
+  "author": "Ranveer",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.3",
+    "express": "^4.18.2"
+  }
+}
